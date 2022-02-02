@@ -439,7 +439,7 @@
 
 * **How to build offline-first app? Explain the architecture.**
 
-* **Design LRU Cache.**
+* **Design LRU Cache.** - [Learn from here](https://medium.com/@ali.muzaffar/encrypt-and-persist-parceable-objects-on-disk-in-android-using-disklrucache-and-facebook-conceal-7b54d530a17f)
 
 * **Design File Downloader** - [Learn from here](https://github.com/MindorksOpenSource/PRDownloader)
 
